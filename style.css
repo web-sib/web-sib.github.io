@@ -1,0 +1,11 @@
+.parallax img{
+    max-height: 600px;
+    max-width: 900px;
+}
+.carousel img{
+   height: 200px;
+   width: 600px;
+}
+#nav{
+    transition: top 0.5s;
+}
